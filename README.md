@@ -18,4 +18,4 @@ from are shown on the map below.
 
 I am proud of my accomplishment because I took a particulary attention on Months and days in order the clearly draw the time series.
 
-![plotting Patterns](raw.https://github.com/SAAHMATHWORKS/Plotting-Weather-Patterns/blob/master/Plotting%20Weather%20Patterns.png)
+![plotting Patterns](https://github.com/SAAHMATHWORKS/Plotting-Weather-Patterns/blob/master/Plotting%20Weather%20Patterns.png)
